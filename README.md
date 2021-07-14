@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+<!-- These are the data and code for the article: The application of structural equation modeling in ecology based on R
 **shiyafei29/shiyafei29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
