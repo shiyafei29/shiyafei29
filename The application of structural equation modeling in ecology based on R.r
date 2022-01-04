@@ -32,11 +32,6 @@ kelp <- na.omit(kelp)
 kelp$wave_kelp_int <- kelp$max_Max.OV * kelp$prev.kelp
 
 
-#############勘误说明####################
-##勘误说明：由于作者的疏忽，错将正文中的部分代码标错，其中Spring.kelp.canopy部分多了Species.richness，而Linkage.density部分少了Species.richness，而GitHub中上传的代码是正确的，
-##造成阅读的不便，还请读者谅解。
-
-
 #################### Fit the model by lavaan ##########################
 
 #fit the model
